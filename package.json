@@ -1,0 +1,14 @@
+{
+  "name": "playwright-wait-reqeust-not-resolving",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "sapphi-red (https://github.com/sapphi-red)",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "playwright": "1.48.0"
+  }
+}
